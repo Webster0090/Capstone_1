@@ -1,0 +1,7 @@
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\bin\Debug\Capstone_1.exe.config
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\bin\Debug\Capstone_1.exe
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\bin\Debug\Capstone_1.pdb
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\obj\Debug\Capstone_1.csprojAssemblyReference.cache
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\obj\Debug\Capstone_1.csproj.CoreCompileInputs.cache
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\obj\Debug\Capstone_1.exe
+C:\Users\Steve\Desktop\Grand Circus\Labs\Capstone_1\Capstone_1\obj\Debug\Capstone_1.pdb
